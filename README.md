@@ -1,2 +1,2 @@
 # Udacity-Project-II
-A project file for Udacity DevOpe 
+Project file for Udacity DevOps nanodegree programme
